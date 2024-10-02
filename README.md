@@ -1,2 +1,3 @@
-# learnExt
-learning how to make extensions (chrome)
+# Learning Extensions
+Learning how to make extensions (chrome)
+
